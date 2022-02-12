@@ -1,4 +1,4 @@
-hello hello. ceci est un test.
+hello hello. ceci est un test. édité sur mon notepad ++.
 
 <?php
 /**
