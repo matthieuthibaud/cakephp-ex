@@ -1,3 +1,5 @@
+hello hello. ceci est un test.
+
 <?php
 /**
  * CakePHP(tm) : Rapid Development Framework (https://cakephp.org)
